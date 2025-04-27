@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "PDF RAG Application",
-  description: "Custom PDF Based Chatbot",
+  description: "Custom PDF Based Chatbot Application",
 };
 
 export default function RootLayout({
